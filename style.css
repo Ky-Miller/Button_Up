@@ -1,0 +1,33 @@
+.search{
+height: 30px;
+width: 130px;
+color: rgb(70, 226, 174);
+border-color: rgb(70, 226, 174);
+background-color: whitesmoke;
+border-style: solid;
+border-radius: 30px;
+font-size: 15px;
+font-weight: 600;
+}
+.pluss{
+display: block;
+height: 30px;
+width: 30px;
+border-radius: 50%;
+border-color: rgb(70, 226, 174);
+color: white;
+background-color: rgb(70, 226, 174);
+text-align: center;
+border-style: hidden;
+font-size: 25px;
+margin: 10px;
+}
+.account{
+    height: 30px;
+    width: 150px;
+    color: white;
+    background-color: rgb(75, 102, 225);
+    border-width: 3px;
+box-shadow: 5px 5px black;
+border-style: solid;
+}
